@@ -43,7 +43,7 @@
     "projectDetails" : {
       "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
-      ["project-resources/project-files/project-3/1.svg"
+      ["project-resources/project-files/project-4/1.svg"
       ]
     }
   },
@@ -55,7 +55,7 @@
     "projectDetails" : {
       "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
-      ["project-resources/project-files/project-3/1.svg"
+      ["project-resources/project-files/project-5/1.svg"
       ]
     }
   },
@@ -67,7 +67,7 @@
     "projectDetails" : {
       "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
-      ["project-resources/project-files/project-3/1.svg"
+      ["project-resources/project-files/project-6/1.svg"
       ]
     }
   },
@@ -78,7 +78,29 @@
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
       "projectPicsFilenames" : 
-      ["project-resources/project-files/project-3/1.svg"
+      ["project-resources/project-files/project-7/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-8",
+    "projectName" : "Scan and Buy",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-8/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-9",
+    "projectName" : "Scan and Buy",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-9/1.svg"
       ]
     }
   }
