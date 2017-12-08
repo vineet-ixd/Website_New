@@ -76,7 +76,7 @@
                 <li><a data-category="3" href="#" class="link projects-link">OTHERS</a></li>
             </ul>
 
-             <div class="top-gradient-3"></div>
+
 
             <div id="projects-container" class="">
 
