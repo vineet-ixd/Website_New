@@ -65,7 +65,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/fmtfrq27VDg",
+      "youtubeLink" : "https://www.youtube.com/embed/fmtfrq27VDg",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-6/1.svg"
       ]
@@ -77,6 +77,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-7/1.svg"
       ]
@@ -100,6 +101,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-9/1.svg"
       ]

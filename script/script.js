@@ -6,7 +6,7 @@
 		var resourceSectionNo = 0;
 
         $("#loader").css({"height": vHeight});
-        $("#loader-gif").css({"margin-top" : vHeight/2 - 100});
+        $("#loader-gif").css({"margin-top" : vHeight/2 - 150});
 
 		var scrollHeight = 0;
 
@@ -33,6 +33,7 @@
             $("#project-img-master-container").html("");
             $("#project-content-project-name").html("");
             $("#project-content-project-desc").html("");
+            $("#project-video-container").html("");
 
             $("#loader").show();
 
