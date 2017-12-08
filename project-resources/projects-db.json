@@ -70,6 +70,17 @@
       ["project-resources/project-files/project-3/1.svg"
       ]
     }
+  },
+  {
+    "projectID" : "project-7",
+    "projectName" : "Scan and Buy",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-3/1.svg"
+      ]
+    }
   }
 
 ]
