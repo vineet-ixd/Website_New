@@ -5,6 +5,9 @@
 		var vWidth = $(window).width();
 		var resourceSectionNo = 0;
 
+        $("#loader").css({"height": vHeight});
+        $("#loader-gif").css({"margin-top" : vHeight/2 - 100});
+
 		var scrollHeight = 0;
 
 		// Makes square project containers
@@ -30,6 +33,8 @@
             $("#project-img-master-container").html("");
             $("#project-content-project-name").html("");
             $("#project-content-project-desc").html("");
+
+            $("#loader").show();
 
             var projectID = $(this).attr("id");
             populateProject(projectID);
@@ -65,7 +70,11 @@
 
                     }
                 });
+            }).done( function() {
+                $("#loader").fadeOut(250);
             });
+
+
         }
 
 

@@ -225,6 +225,7 @@
 
 		.section-header {
 			font-size: 16px;
+			text-align: left;
 			margin-bottom: 60px;
 			font-weight: 700;
 			font-family: Corbel, "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", "Bitstream Vera Sans", "Liberation Sans", Verdana, "Verdana Ref", sans-serif;
@@ -317,6 +318,7 @@
 	#projects-list > li {
 		display: inline-block;
 		width: 24%;
+		text-align: left;
 	}
 
 	.link-active {
@@ -344,6 +346,9 @@
 
 	}
 
+	#projects-container {
+		text-align: left;
+	}
 
 	.project-img-container {
 		width: 100%;
@@ -483,6 +488,16 @@
 	}
 
 
+#loader {
+	position: absolute;
+	display:none;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background: white;
+	opacity: 0.95;
+	z-index: 9999999999999;
+}
 	/* =========== MOBILE CSS =================== */
 
 	@media only screen and (max-width: 768px) {

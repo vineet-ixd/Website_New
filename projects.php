@@ -16,10 +16,13 @@
 
     ?>
     <link rel="stylesheet" type="text/css" href="style/style.css">
-
 </head>
 
 <body>
+<div id="loader">
+    <img id="loader-gif" src="assets/loader.gif"/>
+<!--    <p class="sans-serif">Loading Project</p>-->
+</div>
 
 <?php include("_includes/nav.php"); ?>
 
@@ -118,9 +121,7 @@
 <script type="text/javascript" src="script/filterizr.js"></script>
 <script type="text/javascript" src="script/script.js"></script>
 <script type="text/javascript">
-//    $(document).ready(function(){
-//        $("#projects-container").filterizr(projectFilterOptions);
-//    });
+
 </script>
 
 </body>
