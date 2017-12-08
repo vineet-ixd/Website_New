@@ -52,11 +52,17 @@
                         $("#project-content-project-name").html(project.projectName);
                         $("#project-content-project-desc").html(project.projectDetails.projectDesc);
 
+                        if (project.projectDetails.youtubeLink != "") {
+                            $("#project-video-container").html('<iframe style="margin-top:30px;margin-bottom:20px;" class="frame" src="' + project.projectDetails.youtubeLink +  '" width="100%" height="350" frameborder="0" allowfullscreen></iframe>');
+                        }
+
+
                         $.each( project.projectDetails.projectPicsFilenames,function( index, projectPics){
                             buffPicMarkup = buffPicMarkup + '<div class="project-img-container"> <img src="' + projectPics + '" class="project-images"/> </div>';
                         });
                         $('html, body').scrollTop(0);
                         $("#project-img-master-container").html(buffPicMarkup);
+
                     }
                 });
             });

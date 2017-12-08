@@ -158,6 +158,7 @@
 
 				.nav-list-items {
 					margin-bottom: 40px;
+					text-align: left;
 				}
 
 					.nav-list-links {
@@ -480,6 +481,7 @@
 		margin: 50px auto 80px auto;
 		height: 10px;
 	}
+
 
 	/* =========== MOBILE CSS =================== */
 

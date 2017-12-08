@@ -5,6 +5,7 @@
     "projectCategory" : "1",
     "projectThumbnailURL" : "sample-1.jpg",
     "projectDetails" : {
+      "youtubeLink" : "",
       "projectPicsFilenames" :
           [ "project-resources/project-files/project-1/Sample_1.svg"
           ]
@@ -16,6 +17,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_01.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" :
         ["project-resources/project-files/project-2/1.svg"
         ]
@@ -27,6 +29,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-3/1.svg"
       ]
@@ -38,6 +41,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-3/1.svg"
       ]
@@ -49,6 +53,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-3/1.svg"
       ]
@@ -60,6 +65,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-3/1.svg"
       ]

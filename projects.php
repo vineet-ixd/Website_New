@@ -30,16 +30,15 @@
     <div id="project-modal-content">
         <div id="project-header" class="project-content-header-box">
             <h1 id="project-content-project-name" class="sans-serif"></h1><br/>
+
+            <div id="project-video-container"></div>
             <p id="project-content-project-desc"></p>
         </div>
 
         <a id="project-modal-close" href="#"" class="monospace">X</a>
 
         <div id="project-img-master-container">
-
         </div>
-
-
     </div>
 
 
@@ -117,11 +116,11 @@
 
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script type="text/javascript" src="script/filterizr.js"></script>
-<script type="text/javascript" src="script/script.min.js"></script>
+<script type="text/javascript" src="script/script.js"></script>
 <script type="text/javascript">
-    $(document).ready(function(){
-        $("#projects-container").filterizr(projectFilterOptions);
-    });
+//    $(document).ready(function(){
+//        $("#projects-container").filterizr(projectFilterOptions);
+//    });
 </script>
 
 </body>
