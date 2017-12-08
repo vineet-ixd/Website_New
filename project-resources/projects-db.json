@@ -1,0 +1,73 @@
+[
+  {
+    "projectID" : "project-1",
+    "projectName" : "Collaborative Mixed Reality Platform for AEC industry",
+    "projectCategory" : "1",
+    "projectThumbnailURL" : "sample-1.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" :
+          [ "project-resources/project-files/project-1/Sample_1.svg"
+          ]
+    }
+  },
+  {
+    "projectID" : "project-2",
+    "projectName" : "Kindred",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_01.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" :
+        ["project-resources/project-files/project-2/1.svg"
+        ]
+    }
+  },
+  {
+    "projectID" : "project-3",
+    "projectName" : "Dynabow",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-3/1.svg"
+      ]
+    }
+  }
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
