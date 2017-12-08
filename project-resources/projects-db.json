@@ -23,7 +23,40 @@
   },
   {
     "projectID" : "project-3",
-    "projectName" : "Dynabow",
+    "projectName" : "CityBot",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-3/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-4",
+    "projectName" : "Siemens Internship",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-3/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-5",
+    "projectName" : "Expresso",
+    "projectCategory" : "2",
+    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectDetails" : {
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-3/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-6",
+    "projectName" : "Ecodrop",
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
