@@ -5,7 +5,7 @@
     "projectCategory" : "1",
     "projectThumbnailURL" : "sample-1.jpg",
     "projectDetails" : {
-      "youtubeLink" : "",
+      "youtubeLink" : "https://www.youtube.com/embed/watch?v=FREwUcpKYF8",
       "projectPicsFilenames" :
           [ "project-resources/project-files/project-1/Sample_1.svg"
           ]
@@ -17,7 +17,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_01.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
+      "youtubeLink" : "https://www.youtube.com/embed/watch?v=OMOGg0DCxw0",
       "projectPicsFilenames" :
         ["project-resources/project-files/project-2/1.svg"
         ]
@@ -29,7 +29,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
+      "youtubeLink" : "https://www.youtube.com/embed/watch?v=KskLTbo9X8c",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-3/1.svg"
       ]
@@ -41,7 +41,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
+      "youtubeLink" : "",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-4/1.svg"
       ]
@@ -53,7 +53,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
+      "youtubeLink" : "https://player.vimeo.com/video/201168114",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-5/1.svg"
       ]
@@ -65,7 +65,7 @@
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
-      "youtubeLink" : "https://www.youtube.com/embed/CB9-pIQq6vk?showinfo=0&&fs=1&&playsinline=0&&rel=0&&enablejsapi=1",
+      "youtubeLink" : "https://www.youtube.com/watch?v=fmtfrq27VDg",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-6/1.svg"
       ]
@@ -84,10 +84,11 @@
   },
     {
     "projectID" : "project-8",
-    "projectName" : "Scan and Buy",
+    "projectName" : "Cube Puzzle",
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
+      "youtubeLink" : "https://player.vimeo.com/video/208769946",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-8/1.svg"
       ]
@@ -95,7 +96,7 @@
   },
     {
     "projectID" : "project-9",
-    "projectName" : "Scan and Buy",
+    "projectName" : "Pulse",
     "projectCategory" : "2",
     "projectThumbnailURL" : "portfolio_02.jpg",
     "projectDetails" : {
