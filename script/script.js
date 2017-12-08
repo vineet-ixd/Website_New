@@ -6,7 +6,7 @@
 		var resourceSectionNo = 0;
 
         $("#loader").css({"height": vHeight});
-        $("#loader-gif").css({"margin-top" : vHeight/2 - 150});
+        $("#loader-gif").css({"margin-top" : vHeight / 2 - 150});
 
 		var scrollHeight = 0;
 
@@ -26,6 +26,8 @@
         } else {
             $(".scrolling-carousel-thumbnail").css({"height" : carouselWidth * 0.30});
         }
+
+
 
 
         $(".project-container-link").on("click", function(e){

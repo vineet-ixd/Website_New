@@ -3,7 +3,7 @@
     "projectID" : "project-1",
     "projectName" : "Collaborative Mixed Reality Platform for AEC industry",
     "projectCategory" : "1",
-    "projectThumbnailURL" : "sample-1.jpg",
+    "projectThumbnailURL" : "cmr.jpg",
     "projectDetails" : {
       "youtubeLink" : "https://www.youtube.com/embed/FREwUcpKYF8",
       "projectPicsFilenames" :
@@ -38,8 +38,8 @@
     {
     "projectID" : "project-4",
     "projectName" : "Siemens Internship",
-    "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectCategory" : "1",
+    "projectThumbnailURL" : "siemens.jpg",
     "projectDetails" : {
       "youtubeLink" : "",
       "projectPicsFilenames" : 
@@ -50,8 +50,8 @@
     {
     "projectID" : "project-5",
     "projectName" : "Expresso",
-    "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectCategory" : "1, 2",
+    "projectThumbnailURL" : "portfolio_07.jpg",
     "projectDetails" : {
       "youtubeLink" : "https://player.vimeo.com/video/201168114",
       "projectPicsFilenames" : 
@@ -62,8 +62,8 @@
     {
     "projectID" : "project-6",
     "projectName" : "Ecodrop",
-    "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectCategory" : "2, 3",
+    "projectThumbnailURL" : "eco.jpg",
     "projectDetails" : {
       "youtubeLink" : "https://www.youtube.com/embed/fmtfrq27VDg",
       "projectPicsFilenames" : 
@@ -75,7 +75,7 @@
     "projectID" : "project-7",
     "projectName" : "Scan and Buy",
     "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectThumbnailURL" : "scan.jpg",
     "projectDetails" : {
       "youtubeLink" : "",
       "projectPicsFilenames" : 
@@ -86,8 +86,8 @@
     {
     "projectID" : "project-8",
     "projectName" : "Cube Puzzle",
-    "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectCategory" : "1",
+    "projectThumbnailURL" : "portfolio_10.jpg",
     "projectDetails" : {
       "youtubeLink" : "https://player.vimeo.com/video/208769946",
       "projectPicsFilenames" : 
@@ -99,11 +99,23 @@
     "projectID" : "project-9",
     "projectName" : "Pulse",
     "projectCategory" : "2",
-    "projectThumbnailURL" : "portfolio_02.jpg",
+    "projectThumbnailURL" : "pulse.jpg",
     "projectDetails" : {
       "youtubeLink" : "",
       "projectPicsFilenames" : 
       ["project-resources/project-files/project-9/1.svg"
+      ]
+    }
+  },
+    {
+    "projectID" : "project-10",
+    "projectName" : "Swarang",
+    "projectCategory" : "3",
+    "projectThumbnailURL" : "portfolio_04.jpg",
+    "projectDetails" : {
+      "youtubeLink" : "https://player.vimeo.com/video/208666617",
+      "projectPicsFilenames" : 
+      ["project-resources/project-files/project-10/1.svg"
       ]
     }
   }

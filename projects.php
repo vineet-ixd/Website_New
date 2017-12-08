@@ -121,8 +121,7 @@
 <script type="text/javascript" src="script/filterizr.js"></script>
 <script type="text/javascript" src="script/script.js"></script>
 <script type="text/javascript">
-
+    // $("#projects-container").filterizr();
 </script>
-
 </body>
 </html>
